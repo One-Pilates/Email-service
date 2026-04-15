@@ -30,7 +30,9 @@ public class AulaCriadaHandler implements  EmailHandler{
 
         String nomeProfessor = (String) payload.get("nomeProfessor");
         List<String> nomesAlunos = (List<String>) payload.get("nomesDosAlunos");
-        LocalDateTime dataAgendamento = (LocalDateTime) payload.get("dataHoraAgendamento");
+        String dataString = (String) payload.get("dataHoraAgendamento");
+
+        LocalDateTime dataAgendamento = LocalDateTime.parse(dataString);
         String nomeSala = (String) payload.get("nomeSala");
         String nomeEspecialidade = (String) payload.get("nomeEspecialidade");
 
