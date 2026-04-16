@@ -27,7 +27,7 @@ public class AulaAtualizadaHandler implements EmailHandler{
 
     @Override
     public void processar(EmailRequestDTO dto) {
-        System.out.println("Dto recebido no atualizar aula : " + dto);
+        
         Map<String, Object> payload = (Map<String, Object>) dto.getPayload();
 
         String nomeProfessor = (String) payload.get("nomeProfessor");
