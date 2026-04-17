@@ -1,0 +1,27 @@
+#================================
+# SERVIDOR
+#================================
+server.port=8081
+spring.application.name=email_service
+spring.docker.compose.enabled=true
+
+#================================
+# RABBITMQ
+#================================
+spring.rabbitmq.host=SEU_HOST_RABBITMQ
+spring.rabbitmq.port=5672
+spring.rabbitmq.username=SEU_USUARIO_RABBITMQ
+spring.rabbitmq.password=SUA_SENHA_RABBITMQ
+app.rabbitmq.email-queue=email.queue
+
+#================================
+# EMAIL (SMTP)
+#================================
+spring.mail.host=smtp.gmail.com
+spring.mail.port=587
+spring.mail.username=SEU_EMAIL_SMTP
+spring.mail.password=SUA_SENHA_SMTP
+
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
+app.mail.from=SEU_EMAIL_REMETENTE
