@@ -212,22 +212,6 @@ app.mail.from=${MAIL_FROM:no-reply@onepilates.com}
 
 ## Como Executar Localmente
 
-### Importante sobre a pasta resources
-
-Se a pasta `src/main/resources` nao aparecer no GitHub (comum quando subpastas estao vazias), sera necessario criar manualmente a estrutura abaixo antes de executar o servico:
-
-```text
-email_service/
-	src/
-		main/
-			resources/
-				application.properties
-				static/
-				templates/
-```
-
-Sem essa pasta, as configuracoes da aplicacao nao serao carregadas corretamente.
-
 ### 1) Subir RabbitMQ
 
 Na pasta `email_service`:
