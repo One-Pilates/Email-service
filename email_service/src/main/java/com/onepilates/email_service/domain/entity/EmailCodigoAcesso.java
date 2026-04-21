@@ -60,8 +60,8 @@ public class EmailCodigoAcesso {
                         <td align="center" style="padding:40px 20px;">
                             <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff; border-radius:10px;">
                                 <tr>
-                                    <td align="center" style="padding:40px;">
-                                        <img src="https://i.ibb.co/q39Mz6gR/logo-Original.png" width="160">
+                                    <td align="center" style="padding:40px;">   
+                                        <img src="https://onepilates.com.br/wp-content/uploads/2026/03/logo-50px.png" width="160">
                                     </td>
                                 </tr>
                                 <tr>

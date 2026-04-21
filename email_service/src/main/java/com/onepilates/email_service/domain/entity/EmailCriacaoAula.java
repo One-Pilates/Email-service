@@ -118,7 +118,7 @@ public class EmailCriacaoAula {
                             <!-- HEADER -->
                             <tr>
                                 <td align="center" style="padding:40px;">
-                                    <img src="https://i.ibb.co/q39Mz6gR/logo-Original.png" width="160">
+                                        <img src="https://onepilates.com.br/wp-content/uploads/2026/03/logo-50px.png" width="160">
                                 </td>
                             </tr>
 
