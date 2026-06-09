@@ -73,8 +73,7 @@ public class EmailPrimeiroAcesso {
                                                style="background-color:#ffffff; border-radius:10px;">
                                             <tr>
                                                 <td align="center" style="padding:40px;">
-                                                    <img src="https://onepilates.com.br/site/wp-content/uploads/2018/11/logo-100px.png" alt="OnePilates"
-                                                         width="160" style="display:block;">
+                                                   <img src="https://onepilates.com.br/wp-content/uploads/2026/03/logo-50px.png" width="160">
                                                 </td>
                                             </tr>
                 
