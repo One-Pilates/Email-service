@@ -87,7 +87,7 @@ public class EmailCancelamentoAula {
                                 <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff;">
                                     <tr>
                                         <td align="center" style="padding:40px;">
-                                            <img src="https://assets-cdn.wellhub.com/images/?su=https://images.partners.gympass.com/image/filename/250389/lg_858dc5781e84-ONE_SEM_FUNDO_COM_SLOGAN_01_01.jpg" width="160">
+                                           <img src="https://onepilates.com.br/wp-content/uploads/2026/03/logo-50px.png" width="160">
                                         </td>
                                     </tr>
 
