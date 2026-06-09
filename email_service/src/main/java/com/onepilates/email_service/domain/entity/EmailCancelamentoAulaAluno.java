@@ -132,7 +132,6 @@ public class EmailCancelamentoAulaAluno {
                                                         <p style="margin:0 0 8px 0; font-weight:600;">📞 Fale com a OnePilates:</p>
                                                         <p style="margin:4px 0;">• WhatsApp ou telefone da unidade</p>
                                                         <p style="margin:4px 0;">• Recepção presencial</p>
-                                                        <p style="margin:4px 0;">• E-mail: <a href="mailto:contato@onepilates.com.br" style="color:#FF0000;">contato@onepilates.com.br</a></p>
                                                     </td>
                                                 </tr>
                                             </table>
