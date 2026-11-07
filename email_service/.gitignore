@@ -35,6 +35,7 @@ build/
 # Configurações locais (NUNCA subir)
 .env
 .env.*
+!.env.example
 
 # Spring configs sensíveis
 **/application.properties
